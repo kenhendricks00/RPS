@@ -1,4 +1,4 @@
-#!/home/runner/InnocentPreemptiveLanguage/venv/bin/python3
+#!/home/runner/RPS/venv/bin/python3
 # EASY-INSTALL-ENTRY-SCRIPT: 'cowsay==5.0','console_scripts','cowsay'
 import re
 import sys
